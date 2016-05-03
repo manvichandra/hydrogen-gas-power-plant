@@ -25,4 +25,4 @@ Discs-16
  
 3.Add the data set to be analysed as shown in figure bellow:-
 
-[Fig 2:Adding the dataset](https://github.com/manvichandra/hydrogen-gas-power-plant/blob/master/Images/dataset.JPG)
+        [Fig 2:Adding the dataset](https://github.com/manvichandra/hydrogen-gas-power-plant/blob/master/Images/dataset.JPG)
