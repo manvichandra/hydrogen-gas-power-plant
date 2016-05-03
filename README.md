@@ -21,8 +21,12 @@ Discs-16
 
 2. Create a new experiment as shown in the figure below:- 
 
- [Fig 1:creation of new experiment](https://github.com/manvichandra/hydrogen-gas-power-plant/blob/master/Images/Experiment.JPG)
+ [Fig 1:Creation of new experiment](https://github.com/manvichandra/hydrogen-gas-power-plant/blob/master/Images/Experiment.JPG)
  
 3.Add the data set to be analysed as shown in figure bellow:-
 
    [Fig 2:Adding the dataset](https://github.com/manvichandra/hydrogen-gas-power-plant/blob/master/Images/dataset.JPG)
+   
+4.Create a model as shown in the figure :-
+
+  [Fig 2:Creation of the model](https://github.com/manvichandra/hydrogen-gas-power-plant/blob/master/Images/Model.JPG)
