@@ -21,4 +21,4 @@ Discs-16
 
 2. Create a new experiment as shown in the figure below:- 
 
- [Fig 1:creation of new experiment](http://github.com/manvichandra/hydrogen-gas-power-plant/tree/master/images/Experiment.jpg)
+ [Fig 1:creation of new experiment](https://github.com/manvichandra/hydrogen-gas-power-plant/tree/master/Images/Experiment.jpg)
