@@ -13,3 +13,12 @@ Discs-16
 
 
 ## **Getting Started with model creation at Microsoft azure machine learning studio**
+
+## Step 1
+**_Login to Azure Account_**
+
+1. Sign in to Azure Machine Learning Studio
+
+2. Create a new experiment as shown in the figure below:- 
+
+ [Fig 1:creation of new experiment](http://github.com/manvichandra/hydrogen-gas-power-plant/tree/master/images/Experiment.jpg)
