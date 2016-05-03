@@ -30,7 +30,7 @@ Discs-16
 
    [Fig 2:Adding the dataset](https://github.com/manvichandra/hydrogen-gas-power-plant/blob/master/Images/dataset.JPG)
    
-3.Create a model as shown in the figure :-
+3. Create a model as shown in the figure :-
 
   [Fig 2:Creation of the model](https://github.com/manvichandra/hydrogen-gas-power-plant/blob/master/Images/Model.JPG)
   
@@ -43,17 +43,17 @@ Discs-16
 
 2. Create a new notebook.
 
-3.Upload the raw data file to Bluemix Object Storage.
+3. Upload the raw data file to Bluemix Object Storage.
 
-4.Separating the labeled column.
+4. Separating the labeled column.
 
-5.Creation of RDD.
+5. Creation of RDD.
 
-6.Splitting the data into training and test sets.
+6. Splitting the data into training and test sets.
 
-7.Training the dataset using Decision forest regression algorithm.
+7. Training the dataset using Decision forest regression algorithm.
 
-8.Evaluation of the result.
+8. Evaluation of the result.
 
 _**In order to see the output for the Hydrogen Dataset follow the step below:-**_
 
